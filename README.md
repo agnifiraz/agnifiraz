@@ -1,25 +1,43 @@
 <h1 align="center">Hi 👋, I'm Agnita Paul</h1>
 <h3 align="center">👨‍💻 Aspiring Software Developer | 🌐 Open to Collaborations</h3>
 
-<img align="right" alt="coding glf" width="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
-
+<img align="right" alt="coding glf" width="250" height="200" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agnifiraz&label=Profile%20views&color=0e75b6&style=flat" alt="agnifiraz" /> </p>
 
-- 🌱 I’m currently learning **Angular, PHP, Emerging technologies, Project Management**
+- 🌱 I’m currently learning:
+  - Angular
+  - PHP
+  - Emerging technologies
+  - Project Management
 
-- 👯 I’m looking to collaborate on **C++, C#, Java, Python, Web Dev Projects**
+- 👯 I’m looking to collaborate on:
+  - C++
+  - C#
+  - Java
+  - Python
+  - Web Dev Projects
 
 - 👨‍💻 All of my projects are available at [https://github.com/agnifiraz](https://github.com/agnifiraz)
 
-- 💬 Ask me about **🚀 Software Development, 💡 Programming Languages, 🌐 Web Technologies, 📊 Database Management, 🔧 Tools & IDEs, 🌟 Open Source, 📚 Personal Interests**
+- 💬 Ask me about:
+  - 🚀 Software Development
+  - 💡 Programming Languages
+  - 🌐 Web Technologies
+  - 📊 Database Management
+  - 🔧 Tools & IDEs
+  - 🌟 Open Source
+  - 📚 Personal Interests
 
-- 📫 How to reach me **agnifiraz@gmail.com**
+- 📫 How to reach me:
+  - [Email](mailto:agnifiraz@gmail.com)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1k_bT6MBni_222w5Cs7Obq-yGgqsOU7RH/view?usp=sharing](https://drive.google.com/file/d/1k_bT6MBni_222w5Cs7Obq-yGgqsOU7RH/view?usp=sharing)
+- 📄 Know about my experiences
+  - [Resume Link](https://drive.google.com/file/d/1k_bT6MBni_222w5Cs7Obq-yGgqsOU7RH/view?usp=sharing)
 
 - 😄 Pronouns: **She/Her**
 
-- ⚡ Fun fact **I have a fascination with 🌶️ Spicy foods and have tried some of the hottest chili peppers on the planet.🥵**
+- ⚡ Fun fact:
+  - I have a fascination with 🌶️ Spicy foods and have tried some of the hottest chilli peppers on the planet.🥵
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
