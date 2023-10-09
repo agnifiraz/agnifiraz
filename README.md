@@ -22,6 +22,7 @@
 
 - 💬 Ask me about:
   - 🚀 Software Development
+  - 📱 Mobile Development
   - 💡 Programming Languages
   - 🌐 Web Technologies
   - 📊 Database Management
