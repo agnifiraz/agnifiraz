@@ -52,6 +52,7 @@
 
 -  I'm proficient in these frameworks:
    - React
+   - React Native
    - ASP.NET
    - Vue
      
