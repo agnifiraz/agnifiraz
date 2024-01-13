@@ -5,8 +5,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agnifiraz&label=Profile%20views&color=0e75b6&style=flat" alt="agnifiraz" /> </p>
 
 - 🌱 I’m currently learning:
-  - Angular
-  - PHP
+  - REST
+  - Microservices
   - Emerging technologies
   - Project Management
 
@@ -14,6 +14,7 @@
   - C++ Projects
   - C# Projects
   - Java Projects
+  - PHP Projects
   - Python Projects
   - Web Dev Projects
   - Mobile App Dev Projects
@@ -53,6 +54,7 @@
 -  I'm proficient in these frameworks:
    - React
    - React Native
+   - Angular
    - ASP.NET
    - Vue
      
