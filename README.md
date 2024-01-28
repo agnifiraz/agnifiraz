@@ -36,7 +36,7 @@
   - [Email](mailto:agnifiraz@gmail.com)
 
 - 📄 Know about my experiences
-  - [Resume Link](https://drive.google.com/file/d/1k_bT6MBni_222w5Cs7Obq-yGgqsOU7RH/view?usp=sharing)
+  - [Resume Link](https://drive.google.com/file/d/1Hr0ICydqz-qAvWNfqwLxdcFhsO5DLBhW/view?usp=sharing)
 
 - 😄 Pronouns: **She/Her**
 
