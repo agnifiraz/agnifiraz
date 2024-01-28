@@ -9,6 +9,7 @@
   - Microservices
   - Emerging technologies
   - Project Management
+  - Cloud Services
 
 - 👯 I’m looking to collaborate on:
   - C++ Projects
